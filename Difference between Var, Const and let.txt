@@ -1,0 +1,3 @@
+const for values that should not be reassigned (constants), but remember that it doesn't make objects or arrays immutable; you can't reassign the variable itself, but you can modify its properties or elements.
+const for values that should not be reassigned (constants), but remember that it doesn't make objects or arrays immutable; you can't reassign the variable itself, but you can modify its properties or elements.
+const are for variables that should not be assigned, it does not make object or array mutables.
